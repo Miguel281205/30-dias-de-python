@@ -14,3 +14,7 @@ is_married=False
 is_true=True
 is_light_on=True
 print(country_var , city_var)
+
+print(type(full_name_var))
+print(len(full_name_var))
+print(len(last_name_var))
