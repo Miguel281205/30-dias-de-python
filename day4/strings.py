@@ -23,4 +23,5 @@ print(str.title("coding for all"))
 
 
 print(str.swapcase("coding for all "))
+"f"
 
