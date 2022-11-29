@@ -25,5 +25,6 @@ print(str.title("coding for all"))
 print(str.swapcase("coding for all "))
 
 print("esto es una prueba")
+#prueba x2
 
    
