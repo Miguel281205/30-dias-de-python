@@ -77,6 +77,6 @@ fruta = input("Type a fruit: ")
 
 if fruta in fruits:
     print("Already exists in the list")
-
+ 
 else:
     print("That does not appear in the list")

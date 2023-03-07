@@ -11,7 +11,7 @@ print(company)
 
 
 len(company)
-
+ 
 cosa=len(company)
 
 print(cosa)

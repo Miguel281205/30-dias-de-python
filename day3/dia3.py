@@ -9,7 +9,7 @@ print(area)
 
 
 
-lado1=3
+lado1=3 
 lado2=6
 lado3=8
 

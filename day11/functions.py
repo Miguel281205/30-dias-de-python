@@ -17,7 +17,7 @@ def add_all_nums(N):
 
 #
 def from_c_to_f(celsius):
-    return(celsius * 9 / 5) + 32
+    return(celsius * 9 / 5) + 32 
 
 #
 def check_season(month):
@@ -41,3 +41,4 @@ def print_list(E):
 
 
 
+  

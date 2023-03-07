@@ -9,7 +9,7 @@ country_var="ESPAÑA"
 city_var="Jerez"
 age_var="16"
 year_var="2022"
-is_married=False
+is_married=False 
 is_true=True
 is_light_on=True
 print(country_var , city_var)

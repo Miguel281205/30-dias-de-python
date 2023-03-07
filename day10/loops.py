@@ -61,3 +61,4 @@ contries = ["Spain, France, Germany, Austria, Poland, UK, USA, Russia"]
 for country in contries:
     if "pain" in country:
         print(country)
+ 

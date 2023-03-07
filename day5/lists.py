@@ -11,7 +11,7 @@ mixed_data_types= ["Miguel","16","1.80","No casado","Jerez de la Frontera"]
 print(mixed_data_types)
 
 it_companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
-print(it_companies)
+print(it_companies) 
 
 print(len(it_companies))
 
